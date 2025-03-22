@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E3E2E7A-641D-4239-ADBA-26FDFFE65C5F}|TP06\\TP06.csproj|c:\\telkom\\semester 4\\konstruksi\\praktikum\\modu6\\tp06\\tp06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E3E2E7A-641D-4239-ADBA-26FDFFE65C5F}|TP06\\TP06.csproj|solutionrelative:tp06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3E2E7A-641D-4239-ADBA-26FDFFE65C5F}|TP06\\TP06.csproj|c:\\telkom\\semester 4\\konstruksi\\praktikum\\modu6\\tp06\\tp06\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3E2E7A-641D-4239-ADBA-26FDFFE65C5F}|TP06\\TP06.csproj|solutionrelative:tp06\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sayatubevideo.cs",
+              "DocumentMoniker": "C:\\Telkom\\Semester 4\\Konstruksi\\Praktikum\\Modu6\\TP06\\TP06\\Sayatubevideo.cs",
+              "RelativeDocumentMoniker": "TP06\\Sayatubevideo.cs",
+              "ToolTip": "C:\\Telkom\\Semester 4\\Konstruksi\\Praktikum\\Modu6\\TP06\\TP06\\Sayatubevideo.cs",
+              "RelativeToolTip": "TP06\\Sayatubevideo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:38:41.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Telkom\\Semester 4\\Konstruksi\\Praktikum\\Modu6\\TP06\\TP06\\Program.cs",
               "RelativeDocumentMoniker": "TP06\\Program.cs",
-              "ToolTip": "C:\\Telkom\\Semester 4\\Konstruksi\\Praktikum\\Modu6\\TP06\\TP06\\Program.cs",
-              "RelativeToolTip": "TP06\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Telkom\\Semester 4\\Konstruksi\\Praktikum\\Modu6\\TP06\\TP06\\Program.cs*",
+              "RelativeToolTip": "TP06\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T19:34:54.445Z",
               "EditorCaption": ""

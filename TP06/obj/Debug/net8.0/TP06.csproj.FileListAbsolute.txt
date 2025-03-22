@@ -1,0 +1,15 @@
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modu6\TP06\TP06\bin\Debug\net8.0\TP06.exe
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modu6\TP06\TP06\bin\Debug\net8.0\TP06.deps.json
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modu6\TP06\TP06\bin\Debug\net8.0\TP06.runtimeconfig.json
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modu6\TP06\TP06\bin\Debug\net8.0\TP06.dll
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modu6\TP06\TP06\bin\Debug\net8.0\TP06.pdb
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modu6\TP06\TP06\obj\Debug\net8.0\TP06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modu6\TP06\TP06\obj\Debug\net8.0\TP06.AssemblyInfoInputs.cache
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modu6\TP06\TP06\obj\Debug\net8.0\TP06.AssemblyInfo.cs
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modu6\TP06\TP06\obj\Debug\net8.0\TP06.csproj.CoreCompileInputs.cache
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modu6\TP06\TP06\obj\Debug\net8.0\TP06.sourcelink.json
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modu6\TP06\TP06\obj\Debug\net8.0\TP06.dll
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modu6\TP06\TP06\obj\Debug\net8.0\refint\TP06.dll
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modu6\TP06\TP06\obj\Debug\net8.0\TP06.pdb
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modu6\TP06\TP06\obj\Debug\net8.0\TP06.genruntimeconfig.cache
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modu6\TP06\TP06\obj\Debug\net8.0\ref\TP06.dll
